@@ -5,5 +5,8 @@ class User {
 		Duration maxShareTime;
 	}
 
+	// private final Token token;
+	private Configuration configuration;
+
 	User() {}
 }
